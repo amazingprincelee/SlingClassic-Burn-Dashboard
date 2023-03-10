@@ -43,11 +43,12 @@ main{
     padding: 20px;
 }
 .sidebar{
-    background: #1D180B;
+    background: #ad8e40;
     color: #fff;
-    height: 430vh;
+    height: 180vh;
     width: 200px;
     transition: all 0.5s;
+    display: inline-block;
 }
 .top_section{
     display: flex;
@@ -189,6 +190,9 @@ main{
     border: 2px solid orange;
 }
 
+.supply-display {
+    display: none;
+}
 
 
 @media screen and (max-width: 1200px) {
@@ -197,11 +201,58 @@ main{
       overflow-y: scroll;
     } 
   }
+
+  
   
   @media screen and (max-width: 768px) {
+    
+    
     .AppGlass{
       grid-template-columns: 1fr;
     } 
+
+    .sidebar {
+        display: none;
+      }
+
+    .supply-display {
+        margin: auto;
+        width: 350px;
+        height: 100px;
+        display: block;
+        text-align: center;
+    }
+
+    .supply-display-content {
+
+        margin-top: 40px;
+    }
+
+    .supply-display-text {
+        font-size: 1rem;
+        margin: 10px;
+        padding: 10px;
+        text-align: center;
+        border-bottom: #FFA500 2px solid;
+        
+    }
+
+    .btn-link {
+        text-align: center;
+        align-items: center;
+        background: #FFA500;
+        margin: 1px;
+        padding: 2px;
+        width: 80px;
+        border-radius: 3px;
+    }
+
+    .btn-link a {
+        color: #fff;
+        text-decoration: none;
+    }
+
+    
 
 }
 

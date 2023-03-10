@@ -59,12 +59,12 @@ const Sidebar = ({children}) => {
                }
 
                 <div style={{display: isOpen ? "block" : "none"}} className='token_price'>
-                    <p className='supply'>Total Supply</p>
+                    <p className='supply'>Max Supply</p>
                     <p className='link_text'>1,000,000,000</p>
                 </div>
 
                 <div style={{display: isOpen ? "block" : "none"}} className='token_price'>
-                    <p className='supply'>Circulating Supply</p>
+                    <p className='supply'>Total Supply</p>
                     <p className='link_text'>643.59M SLING</p>
                 </div>
            </div>
