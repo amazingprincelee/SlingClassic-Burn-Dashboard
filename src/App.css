@@ -38,6 +38,8 @@ h3 {
 .container{
     display:flex;
 }
+
+
 main{
     width: 100%;
     padding: 20px;
@@ -177,7 +179,7 @@ main{
     color:#fff;
     border: #FFA500 1px solid;
     /* margin-left: 40px; */
-    margin-top: 20px;
+    margin-top: 45px;
     margin-left: 40px;
     margin-bottom: 30px;
     position: absolute;
@@ -255,6 +257,8 @@ main{
     
 
 }
+
+
 
 
 
