@@ -213,9 +213,9 @@ main{
       grid-template-columns: 1fr;
     } 
 
-    .sidebar {
+/*     .sidebar {
         display: none;
-      }
+      } */
 
     .supply-display {
         margin: auto;
