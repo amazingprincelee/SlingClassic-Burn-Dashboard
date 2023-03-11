@@ -1,4 +1,3 @@
-import { toNumber } from "ethers";
 import React, { useState, useEffect } from "react";
 import ReviewsBar from "../components/progressbar/reviewsBar";
 

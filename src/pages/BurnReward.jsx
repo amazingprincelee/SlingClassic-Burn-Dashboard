@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../sling-logo.png';
 import { FaTrophy } from "react-icons/fa";
 
 
