@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/SlingClassic-Burn-Dashboard/static/css/main.5fa4b4ee.css",
+    "main.js": "/SlingClassic-Burn-Dashboard/static/js/main.cf87d514.js",
+    "static/media/sling-logo.png": "/SlingClassic-Burn-Dashboard/static/media/sling-logo.dda65a34c56e497699b6.png",
+    "index.html": "/SlingClassic-Burn-Dashboard/index.html",
+    "main.5fa4b4ee.css.map": "/SlingClassic-Burn-Dashboard/static/css/main.5fa4b4ee.css.map",
+    "main.cf87d514.js.map": "/SlingClassic-Burn-Dashboard/static/js/main.cf87d514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fa4b4ee.css",
+    "static/js/main.cf87d514.js"
+  ]
+}
