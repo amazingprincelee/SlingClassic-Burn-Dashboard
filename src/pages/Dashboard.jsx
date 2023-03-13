@@ -27,6 +27,8 @@ const Dashboard = () => {
      
             />
             <Link to="../TopBurners" className='view-all-btn'>View All</Link>
+
+        
             
         </div>
 
